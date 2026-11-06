@@ -1,0 +1,7 @@
+C:\Users\omri.shalom_student\Documents\Practice Set 3\Practice Set 3\obj\Debug\Practice Set 3.csproj.AssemblyReference.cache
+C:\Users\omri.shalom_student\Documents\Practice Set 3\Practice Set 3\obj\Debug\Practice Set 3.csproj.CoreCompileInputs.cache
+C:\Users\omri.shalom_student\Documents\Practice Set 3\Practice Set 3\bin\Debug\Practice Set 3.exe.config
+C:\Users\omri.shalom_student\Documents\Practice Set 3\Practice Set 3\bin\Debug\Practice Set 3.exe
+C:\Users\omri.shalom_student\Documents\Practice Set 3\Practice Set 3\bin\Debug\Practice Set 3.pdb
+C:\Users\omri.shalom_student\Documents\Practice Set 3\Practice Set 3\obj\Debug\Practice Set 3.exe
+C:\Users\omri.shalom_student\Documents\Practice Set 3\Practice Set 3\obj\Debug\Practice Set 3.pdb
